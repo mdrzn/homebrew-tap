@@ -1,6 +1,6 @@
 cask "screenshot-uploader" do
-  version "4.0.0"
-  sha256 "f3a40059be4cac3d063d32c1f73a133ecaa45a6dc04db39551e0ad0ae13417d3"
+  version "4.0.1"
+  sha256 "3fb3220ba41e6ee3e6214e055a26f69b497b3983a4a7ae149ef52f0147208ef0"
 
   url "https://github.com/mdrzn/claude-screenshot-uploader/releases/download/v#{version}/ScreenshotUploader.zip"
   name "Screenshot Uploader"
