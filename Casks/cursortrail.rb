@@ -7,7 +7,7 @@ cask "cursortrail" do
   desc "Cursor trail and ghost copies of the pointer"
   homepage "https://github.com/mdrzn/cursor-trail"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "CursorTrail.app"
 

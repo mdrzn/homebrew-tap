@@ -1,6 +1,7 @@
 # mdrzn's Homebrew tap
 
 ```sh
+brew tap mdrzn/tap && brew trust mdrzn/tap                 # once: Homebrew asks you to trust third-party taps
 brew install --cask --no-quarantine mdrzn/tap/menustats     # menu bar system monitor
 brew install --cask --no-quarantine mdrzn/tap/cursortrail   # cursor trail
 ```

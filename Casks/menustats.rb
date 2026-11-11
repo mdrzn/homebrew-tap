@@ -7,7 +7,7 @@ cask "menustats" do
   desc "Menu bar system monitor for developers"
   homepage "https://github.com/mdrzn/menustats"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "MenuStats.app"
 
